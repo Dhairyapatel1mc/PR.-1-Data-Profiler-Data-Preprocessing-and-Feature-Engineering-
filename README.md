@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Data%20Profiler&fontSize=52&fontAlignY=38&desc=Multi-Source%20Data%20Preprocessing%20%26%20Churn%20Feature%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Data%20Profiler&fontSize=52&fontAlignY=38&desc=Multi-Source%20Data%20Preprocessing%20%26%20Churn%20Feature%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" />
 </p>
 
 <p align="center">
