@@ -129,6 +129,7 @@ The API branch is intentionally decoupled from the join — it demonstrates inge
 .
 ├── README.md
 ├── data_profiler.ipynb                   # Part A–E: theory → acquisition → clean → EDA → profile
+├── Video                                 # Watch explanation video
 ├── sources/
 │   ├── customer_transactions.csv         # Source 1 — CSV
 │   ├── customer_demographics.json        # Source 2 — JSON
